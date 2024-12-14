@@ -37,7 +37,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ### 📫 How to reach me?
 
-⦿ [Connect with me on LinkedIn](www.linkedin.com/in/fauzeya-naheed) 👨🏻‍💻  
+⦿ [Connect with me on LinkedIn](https://www.linkedin.com/in/fauzeya-naheed/) 👨🏻‍💻  
 ⦿ [Follow me on Hashnode](https://hashnode.com/@Fauzeya)) 🌐  
 ⦿ [Shoot me an Email](mailto:f.naheed99@gmail.com) 💌  
 
