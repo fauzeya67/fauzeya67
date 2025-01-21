@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/fauzeya-naheed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/fauzeya-naheed" height="30" width="40" /></a>
   <a href="https://hashnode.com/@fauzeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@fauzeya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/f_naheed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/f_naheed99" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/f_naheed99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/f_naheed99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
